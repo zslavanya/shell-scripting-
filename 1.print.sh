@@ -12,4 +12,22 @@ echo bye
 
 echo -e "hai1/nbye1"
 
+#/n is used to print a new line
+
+#some time we need colours printed with text
+
+##following are the colours that are supported
+
+#   colour             code
+# ------------------------------------
+#   red                 31
+#   green               32
+#   yellow              33
+#   blue                34
+#   magenta             35
+#   cyan                36
+
+#syntax: echo -e "\e[COLmMESSAGE"
+
+echo -e "\e[33mWelcome to devops Training"
 
