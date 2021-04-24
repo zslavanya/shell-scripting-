@@ -29,5 +29,9 @@ echo -e "hai1/nbye1"
 
 #syntax: echo -e "\e[COLmMESSAGE"
 
-echo -e "\e[33mWelcome to devops Training"
+echo -e "\e[33mWelcome to devops Training\e[0m"
+echo good evening
+
+#disable the colour code - 0
+
 
