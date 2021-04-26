@@ -6,3 +6,4 @@ if [ ! -f components/${COMPONENT}.sh ]; then
 fi
 
 bash components/${COMPONENT}.sh
+
