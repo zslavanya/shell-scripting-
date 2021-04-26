@@ -1,7 +1,8 @@
 #!bin/bash
 
-source comman.sh
+source common.sh
 
 OS_PREREQ
+
 
 
