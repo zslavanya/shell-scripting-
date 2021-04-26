@@ -1,0 +1,6 @@
+Fundamentally project componets are designed to run on individual machine, But not all on the machine.
+
+keep the code dry, because there are common components.
+
+Re run of a script should never fail
+
