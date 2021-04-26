@@ -7,3 +7,5 @@ fi
 
 bash components/${COMPONENT}.sh
 
+
+
