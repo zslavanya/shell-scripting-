@@ -8,3 +8,5 @@ OS_PREREQ() {
 ERROR(){
   echo -e "\e[1;31m$1\e[0m"
 }
+
+
